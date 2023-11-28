@@ -1,0 +1,7 @@
+{
+    "i18n-ally.localesPaths": [
+        "public/locales",
+        "src/shared/config/i18n"
+    ],
+    "i18next.i18nPaths": "c:/Users/zloyt/Desktop/Ulbi/production-project/public/locales,c:/Users/zloyt/Desktop/Ulbi/production-project/src/shared/config/i18n"
+}
